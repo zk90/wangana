@@ -1,9 +1,8 @@
 ![favicon](https://raw.github.com/nadjetey/wangana/master/favicon.png) Wangana - Jekyll Theme
 ==============
 
-Wangana is responsive [Jekyll](http://jekyllrb.com/) theme, perfect for powering your GitHub hosted blog. See this theme live at [nadjetey.github.io](http://nadjetey.github.io)
+Wangana is responsive [Jekyll](http://jekyllrb.com/) theme, perfect for powering your GitHub Pages hosted blog. See this theme live at [nadjetey.github.io](http://nadjetey.github.io)
 
-## Screenshot
 ![screenshot](https://raw.github.com/nadjetey/wangana/master/assets/images/wangana.png)
 
 ## Contributing
@@ -19,7 +18,7 @@ Wangana is responsive [Jekyll](http://jekyllrb.com/) theme, perfect for powering
 ## Installation & Usage
 1 > [Download](https://github.com/nadjetey/wangana/archive/master.zip) package
 
-2 > Fill in the details of the configuration file (/_config.yml) by uncommenting the differents and edit to taste
+2 > Fill in the details of the configuration file (/_config.yml) by uncommenting the different parts and edit to taste
 Edit: _config.yml (general options), main.css (theme colors & fonts)
 ``` bat
 wangana/
